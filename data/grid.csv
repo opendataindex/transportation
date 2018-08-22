@@ -1,10 +1,10 @@
 This summary last updated,Type of Data,City,State,Data is freely available online,Data is machine readable,Context is provided,Available in bulk,Up-to-date,Incident-level data,In progress
 ,公交线路信息,上海市,,Yes,Yes,Yes,Yes,Yes,No,
 ,公交站信息,上海市,,Yes,Yes,Yes,Yes,Yes,Yes,
-,出租汽车基础数据,上海市,,,,,,,,
+,出租汽车基础数据,上海市,,DNE,DNE,DNE,DNE,DNE,DNE,
 ,客运站信息,上海市,,Yes,No,Yes,Yes,Yes,Yes,
-,客运线路信息,上海市,,,,,,,,
-,客运票价信息,上海市,,,,,,,,
+,客运线路信息,上海市,,DNE,DNE,DNE,DNE,DNE,DNE,
+,客运票价信息,上海市,,DNE,DNE,DNE,DNE,DNE,DNE,
 ,高速公路路线信息,上海市,,Yes,No,No,Unsure,Yes,No,
 ,高速公路服务区信息,上海市,,Yes,No,No,Unsure,Yes,No,
 ,普通公路路线信息,上海市,,Yes,No,No,Unsure,Yes,No,
